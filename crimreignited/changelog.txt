@@ -1,0 +1,9 @@
+Failures throw added to file structure (not obtainable or usable)
+World's Evil sound fixed
+Rusty Magnum added
+Tinted Scale added
+Hallowed Ripper added
+Gunerang added
+Gunerang mk2 added
+Chain Gun added
+Lettuce

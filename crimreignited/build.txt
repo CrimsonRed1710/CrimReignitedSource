@@ -1,0 +1,3 @@
+author = Crimson
+version = 0.5
+displayName = Crim Reignited

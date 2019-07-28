@@ -1,0 +1,9 @@
+From the ashes...
+
+v0.1 ~ reignited the Volt and polaris
+v0.2 ~ reignited the True Volt and True Polaris 
+v0.3 ~ reignited Crimson's Trident
+v0.4 ~ added World's Edge
+
+(due to a problem with tmod the version number may not reflect the changelog, sometimes tmod doesnt register you changed the version number)
+(thanks to failure for all that he has done for me even when i've been much more of a failure on my side)
